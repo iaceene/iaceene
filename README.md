@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SegFault777</h1>
 <h3 align="center">developer</h3>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🔭 I’m currently working on [1337_Exam_Simulation](https://github.com/SegFault777/1337_Exam_Simulation)
 

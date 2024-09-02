@@ -2,10 +2,11 @@
     <h1>Hey! Nice to see you.<h1>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-    **🌟 Welcome to My Profile!**
-    **Hi there! I’m Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco, now thriving in the heart of Rabat.**
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
+    <h1>🌟 Welcome to My Profile!</h1>
+    <p><strong>Hi there! I’m Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco, now thriving in the heart of Rabat.</strong></p>
 </div>
+
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">

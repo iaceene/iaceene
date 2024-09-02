@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
     <h1>🌟 Welcome to My Profile!</h1>
-    <p><strong>Hi there! I’m Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco, now thriving in the heart of Rabat.</strong></p>
+    <p><strong>Hello! I am Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco, currently residing in Rabat.</strong></p>
 </div>
 
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
 <h2>Languages I Code With:</h2>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
             <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />

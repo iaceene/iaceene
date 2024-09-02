@@ -18,23 +18,3 @@
     </a>
 </div>
 
-<!-- Responsive Styling for Smaller Screens -->
-<style>
-    .gif-portrait {
-        display: inline-block;
-    }
-
-    .gif-landscape {
-        display: inline-block;
-    }
-
-    @media (max-width: 768px) {
-        .gif-portrait {
-            display: none;
-        }
-        
-        .gif-landscape {
-            display: inline-block;
-        }
-    }
-</style>

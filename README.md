@@ -1,4 +1,6 @@
-![GIF](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF">
+</div>
 
 
 <div align="center">

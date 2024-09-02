@@ -1,14 +1,8 @@
 <!-- Container for GIFs -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- Portrait GIFs -->
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="169" height="380" alt="GIF" class="gif-portrait">
-    <!-- Landscape GIF -->
-    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="780" height="169" alt="GIF" class="gif-landscape">
-    <!-- Portrait GIFs -->
-    <img src="https://media.giphy.com/media/gEKz4VLX7fQlsl8SFE/giphy.gif" width="169" height="380" alt="GIF" class="gif-portrait">
+    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="380" height="169" alt="GIF" class="gif-landscape">
 </div>
 
-<!-- Container for Social Media Icons -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
     <a href="https://www.instagram.com/yassine.ajagrou" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50">

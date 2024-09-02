@@ -1,10 +1,12 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-<h1>Hey! Nice to see you.<h1>
+    <h1>Hey! Nice to see you.<h1>
 </div>
 
-- **Welcome to my profile!**
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+    **🌟 Welcome to My Profile!**
+    **Hi there! I’m Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco, now thriving in the heart of Rabat.**
+</div>
 
-**I'm Yassine, a Student from Taroudant, Morocco, currently living in Rabat.**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF" class="gif-landscape">

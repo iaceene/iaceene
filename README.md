@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM">v</a></p>
+<iframe src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 <div align="center">

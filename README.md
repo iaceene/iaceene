@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="269"></iframe>
+<img src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="269">
 
 
 <div align="center">

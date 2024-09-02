@@ -3,7 +3,7 @@
     <!-- Portrait GIFs -->
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="169" height="380" alt="GIF" class="gif-portrait">
     <!-- Landscape GIF -->
-    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="380" height="169" alt="GIF" class="gif-landscape">
+    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="780" height="169" alt="GIF" class="gif-landscape">
     <!-- Portrait GIFs -->
     <img src="https://media.giphy.com/media/gEKz4VLX7fQlsl8SFE/giphy.gif" width="169" height="380" alt="GIF" class="gif-portrait">
 </div>

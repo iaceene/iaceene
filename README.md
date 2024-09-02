@@ -60,9 +60,9 @@ A custom ROM for Android with enhanced features and optimizations.
 
 ## Contact Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [your.email@example.com](mailto:yassineajagrou8@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yassineajagrou)
+- **Twitter**: [@yourhandle](https://twitter.com/yassineajagrou)
 
 ## Pinned Repositories
 

@@ -1,6 +1,6 @@
 <!-- Container for GIFs -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="380" height="169" alt="GIF" class="gif-landscape">
+    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF" class="gif-landscape">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">

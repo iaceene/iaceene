@@ -1,8 +1,10 @@
-# Hey! Nice to see you.
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+<h1>Hey! Nice to see you.<h1>
+</div>
 
 - **Welcome to my profile!**
 
-**I'm Yassine, a Fullstack developer from Taroudant, Morocco, currently living in Rabat.**
+**I'm Yassine, a Student from Taroudant, Morocco, currently living in Rabat.**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF" class="gif-landscape">

@@ -7,10 +7,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF" class="gif-landscape">
-    
+
 </div>
 
-    <div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center;">
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
             <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
         </a>
@@ -26,11 +26,11 @@
         <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
         </a>
-    </div>
+</div>
 
-## follow me on :
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+<h1>follow me on :</h1>
     <a href="https://www.instagram.com/yassine.ajagrou" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20">
     </a>

@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; border: 1px solid white;">
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="269" height="480" alt="GIF"> <!-- Portrait -->
-    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="480" height="269" alt="GIF"> <!-- Landscape -->
-    <img src="https://media.giphy.com/media/gEKz4VLX7fQlsl8SFE/giphy.gif" width="269" height="480" alt="GIF"> <!-- Portrait -->
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="169" height="380" alt="GIF"> <!-- Portrait -->
+    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="380" height="169" alt="GIF"> <!-- Landscape -->
+    <img src="https://media.giphy.com/media/gEKz4VLX7fQlsl8SFE/giphy.gif" width="169" height="380" alt="GIF"> <!-- Portrait -->
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">

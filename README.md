@@ -45,13 +45,13 @@ A custom ROM for Android with enhanced features and optimizations.
 
 - **Programming Languages**: C, C++, PHP, Rust, Java
 - **Web Development**: Next.js, HTML, CSS
-- **Tools & Technologies**: Git, Docker, CI/CD
+- **Tools & Technologies**: Git, Docker
 
 ## Achievements
 
-- **Top 10%** in [Coding Challenge](https://example.com) 2023
-- **Certified Web Developer** from [Online Academy](https://example.com)
-- **Open Source Contributor** with [Contributor Badge](https://example.com)
+- **Top 10%** in [Coding Challenge]() 2023
+- **Certified Web Developer** from [Online Academy]()
+- **Open Source Contributor** with [Contributor Badge]()
 
 ## Blog
 
@@ -60,9 +60,9 @@ A custom ROM for Android with enhanced features and optimizations.
 
 ## Contact Me
 
-- **Email**: [your.email@example.com](mailto:yassineajagrou8@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yassineajagrou)
-- **Twitter**: [@yourhandle](https://twitter.com/yassineajagrou)
+- **Email**: [yassineajagrou8@gmail.com](mailto:yassineajagrou8@gmail.com)
+- **LinkedIn**: [iaceene](https://www.linkedin.com/in/yassineajagrou)
+- **Twitter**: [yassineajagrou](https://twitter.com/yassineajagrou)
 
 ## Pinned Repositories
 

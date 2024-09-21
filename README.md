@@ -73,7 +73,7 @@ A custom ROM for Android with enhanced features and optimizations.
 ## GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaceene&show_icons=true&hide_title=true&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaceene&show_icons=true&hide_title=false&hide_border=true" alt="iaceene" />
 </div>
 
 ## Contributions

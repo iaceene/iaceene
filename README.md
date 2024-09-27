@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
-    <h1>🌟 Welcome to My Profile! how</h1>
+    <h1>🌟 Welcome to My Profile! ho6w</h1>
     <p><strong>Hey! I am Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco.</strong></p>
 </div>
 

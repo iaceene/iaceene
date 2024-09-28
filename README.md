@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
     <h1>🌟 Welcome to My Profile!</h1>
-    <p><strong>Hey! dfrr32 I am Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco.</strong></p>
+    <p><strong>Hey! dfrr32sd I am Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco.</strong></p>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">

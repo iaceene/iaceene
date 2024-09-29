@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
+ <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 20px;">
     <h1>🌟 Welcome to My Profile !</h1>
     <p><strong>Hey! I am Yassine, a passionate student hailing from the vibrant city of Taroudant, Morocco.</strong></p>
 </div>
@@ -28,7 +28,7 @@
 
 ## About Me
 
-I am a Fullstack Developer passionate about دة creating innovative solutions and improving user experiences. With a background in various programming languages and technologies, I enjoy tackling complex problems and learning new skills. When I'm not coding, you can find me exploring new tech trends or working on personal projects.
+I am a Fullstack Developer passionate aboutاةة دة creating innovative solutions and improving user experiences. With a background in various programming languages and technologies, I enjoy tackling complex problems and learning new skills. When I'm not coding, you can find me exploring new tech trends or working on personal projects.
 
 ## Projects
 

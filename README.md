@@ -28,7 +28,7 @@
 
 ## About Me
 
-I am a Fullstack Developer passionate aboutاة creating innovative solutions and improving user experiences. With a background in various programming languages and technologies, I enjoy tackling complex problems and learning new skills. When I'm not coding, you can find me exploring new tech trends or working on personal projects.
+I am a Fullstack Developer passionate about creating innovative solutions and improving user experiences. With a background in various programming languages and technologies, I enjoy tackling complex problems and learning new skills. When I'm not coding, you can find me exploring new tech trends or working on personal projects.
 
 ## Projects
 
